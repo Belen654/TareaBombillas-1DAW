@@ -8,7 +8,7 @@ package tareabombillas;
  *
  * @author acm92
  */
-
+xs
 /*
 Modelar una casa con muchas bombillas, de forma que cada bombilla se pueda encender o
 apagar simultáneamente. Para ello, hacer una clase Bombilla con una variable que indique
