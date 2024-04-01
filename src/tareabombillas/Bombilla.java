@@ -24,7 +24,7 @@ Finalmente realiza distintas pruebas con JUNIT4: plomo apagado, plomo encendido,
 encender.. y sube el proyecto entero en .zip.
 */
 public class Bombilla extends InterruptorGeneral {
-jhawgdjhagds
+
     String nombre;
     boolean encenderBomb = true;
     boolean estadoPlomo = encendidoPlomos;   //creamos el estado del plomo 
