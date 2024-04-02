@@ -40,7 +40,7 @@ public class BombillaIT {
      * Test of getNombre method, of class Bombilla.
      */
     @Test
-    public void testGetNombre() {
+    public void testGetNombre2() {
         System.out.println("getNombre");
         Bombilla instance = null;
         String expResult = "";

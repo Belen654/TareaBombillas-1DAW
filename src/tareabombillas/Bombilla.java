@@ -8,7 +8,7 @@ package tareabombillas;
  *
  * @author acm92
  */
-xs
+
 /*
 Modelar una casa con muchas bombillas, de forma que cada bombilla se pueda encender o
 apagar simultáneamente. Para ello, hacer una clase Bombilla con una variable que indique
@@ -28,12 +28,12 @@ public class Bombilla extends InterruptorGeneral {
     String nombre;
     boolean encenderBomb = true;
     boolean estadoPlomo = encendidoPlomos;   //creamos el estado del plomo 
-
+//belen
+    
     public Bombilla(String nombre, boolean encendidoPlomos) {
         super(encendidoPlomos);
         this.nombre = nombre;
     }
-
     public String getNombre() {
         return nombre;
     }
