@@ -4,7 +4,7 @@
  */
 package tareabombillas;
 //HOLA
-BELE
+SSSS
 /**
  *
  * @author acm92
